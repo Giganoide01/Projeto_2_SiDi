@@ -1,2 +1,6 @@
 # Projeto_2_SiDi
-Projeto 2 do SiDi, predição de hit com base no spotify
+Projeto 2 do SiDi, desenvolvimento de um classificador de notícias falsas em PT-BR
+
+Links para repositórios de interess
+- https://github.com/prc992/FakeTweet.Br
+- https://github.com/cabrau/FakeWhatsApp.Br
