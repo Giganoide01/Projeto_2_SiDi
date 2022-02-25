@@ -7,7 +7,10 @@ Docente
 - Nicksson Arrais.
 
 Discentes
-- Leonardo Miranda de Brito, Marilia Caroline de A. C. Silva, Natália Tatiele S. de Oliveira, Tuby D. Neto.
+- Leonardo Miranda de Brito;
+- Marilia Caroline de A. C. Silva;
+- Natália Tatiele S. de Oliveira;
+- Tuby D. Neto.
 
 Link para o repositório original dos dados utilizados no projeto
 - https://github.com/cabrau/FakeWhatsApp.Br
