@@ -5,6 +5,7 @@
 
 Docente
 - Nicksson Arrais.
+
 Discentes
 - Leonardo Miranda de Brito, Marilia Caroline de A. C. Silva, Natália Tatiele S. de Oliveira, Tuby D. Neto.
 
